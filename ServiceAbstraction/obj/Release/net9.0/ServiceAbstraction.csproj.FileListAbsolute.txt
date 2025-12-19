@@ -1,0 +1,6 @@
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\ServiceAbstraction\obj\Release\net9.0\ServiceAbstraction.csproj.AssemblyReference.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\ServiceAbstraction\obj\Release\net9.0\ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\ServiceAbstraction\obj\Release\net9.0\ServiceAbstraction.AssemblyInfoInputs.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\ServiceAbstraction\obj\Release\net9.0\ServiceAbstraction.AssemblyInfo.cs
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\ServiceAbstraction\obj\Release\net9.0\ServiceAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\ServiceAbstraction\obj\Release\net9.0\ServiceAbstraction.sourcelink.json

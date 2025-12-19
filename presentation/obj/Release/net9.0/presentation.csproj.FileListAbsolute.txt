@@ -1,0 +1,6 @@
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\presentation\obj\Release\net9.0\presentation.csproj.AssemblyReference.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\presentation\obj\Release\net9.0\presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\presentation\obj\Release\net9.0\presentation.AssemblyInfoInputs.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\presentation\obj\Release\net9.0\presentation.AssemblyInfo.cs
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\presentation\obj\Release\net9.0\presentation.csproj.CoreCompileInputs.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\presentation\obj\Release\net9.0\presentation.sourcelink.json
