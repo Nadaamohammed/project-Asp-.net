@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Persistance\\Persistance.csproj": {}
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Persistance\\Persistance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Persistance\\Persistance.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Persistance\\Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Persistance\\Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Persistance\\Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Persistance\\Persistance.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Persistance\\Persistance.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Persistance\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,11 +103,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\DomainLayer\\DomainLayer.csproj"
               },
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceImplementation\\ServiceImplementation.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceImplementation\\ServiceImplementation.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceImplementation\\ServiceImplementation.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceImplementation\\ServiceImplementation.csproj"
               }
             }
           }
@@ -165,14 +165,14 @@
         }
       }
     },
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceAbstraction\\ServiceAbstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceAbstraction\\ServiceAbstraction.csproj",
         "projectName": "ServiceAbstraction",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceAbstraction\\ServiceAbstraction.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceAbstraction\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceAbstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -193,11 +193,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\DomainLayer\\DomainLayer.csproj"
               },
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\Shared.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\Shared.csproj"
               }
             }
           }
@@ -243,14 +243,14 @@
         }
       }
     },
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceImplementation\\ServiceImplementation.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceImplementation\\ServiceImplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceImplementation\\ServiceImplementation.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceImplementation\\ServiceImplementation.csproj",
         "projectName": "ServiceImplementation",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceImplementation\\ServiceImplementation.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceImplementation\\ServiceImplementation.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceImplementation\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -271,11 +271,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\DomainLayer\\DomainLayer.csproj"
               },
-              "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj": {
-                "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\ServiceAbstraction\\ServiceAbstraction.csproj"
+              "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+                "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\ServiceAbstraction\\ServiceAbstraction.csproj"
               }
             }
           }
@@ -321,14 +321,14 @@
         }
       }
     },
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\Shared.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

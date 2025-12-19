@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\Shared.csproj": {}
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\Shared.csproj": {
+    "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Nada Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nada Abdelrahman\\Downloads\\Backend\\Backend\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Nada Abdelrahman\\Documents\\GitHub\\project-Asp-.net\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

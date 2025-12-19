@@ -62,3 +62,16 @@ C:\Users\Nada Abdelrahman\Downloads\Backend\Backend\DomainLayer\obj\Debug\net9.0
 C:\Users\Nada Abdelrahman\Downloads\Backend\Backend\DomainLayer\obj\Debug\net9.0\refint\DomainLayer.dll
 C:\Users\Nada Abdelrahman\Downloads\Backend\Backend\DomainLayer\obj\Debug\net9.0\DomainLayer.pdb
 C:\Users\Nada Abdelrahman\Downloads\Backend\Backend\DomainLayer\obj\Debug\net9.0\ref\DomainLayer.dll
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\bin\Debug\net9.0\DomainLayer.deps.json
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\bin\Debug\net9.0\DomainLayer.dll
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\bin\Debug\net9.0\DomainLayer.pdb
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\obj\Debug\net9.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\obj\Debug\net9.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\obj\Debug\net9.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\obj\Debug\net9.0\DomainLayer.AssemblyInfo.cs
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\obj\Debug\net9.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\obj\Debug\net9.0\DomainLayer.sourcelink.json
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\obj\Debug\net9.0\DomainLayer.dll
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\obj\Debug\net9.0\refint\DomainLayer.dll
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\obj\Debug\net9.0\DomainLayer.pdb
+C:\Users\Nada Abdelrahman\Documents\GitHub\project-Asp-.net\DomainLayer\obj\Debug\net9.0\ref\DomainLayer.dll
